@@ -13,11 +13,10 @@
 
 - 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
 
-- 💬 Ask me about **React,Redux**
+- 💬 Ask me about **Web Development**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zu1zRPhPsolEYKVQf56LyYbWPGKFFqDg/view?usp=sharing](https://drive.google.com/file/d/1zu1zRPhPsolEYKVQf56LyYbWPGKFFqDg/view?usp=sharing)
 
-- ⚡ Fun fact **I am so unpredicatable**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
